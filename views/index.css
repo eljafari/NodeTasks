@@ -1,0 +1,46 @@
+@media only screen and (min-width: 620px) {
+    .u-row {
+        width: 600px !important;
+    }
+}
+
+.confirm {
+    color: #FFFFFF;
+    background-color: #776e43;
+    padding: 20px;
+    width: max-content;
+    margin-bottom: 30px
+}
+
+.v-text-align img {
+    width: 66%;
+    max-width: 396px;
+}
+
+.footer-container {
+    Margin: 0 auto;
+    min-width: 320px;
+    max-width: 600px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word;
+    background-color: #363d43
+}
+
+.footer-img {
+    border-collapse: collapse;
+    display: table;
+    width: 100%;
+    background-image: url('https://cdn.templates.unlayer.com/assets/1637521368025-AA.png');
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-color: transparent
+}
+
+.footer-table-padding {
+    overflow-wrap: break-word;
+    word-break: break-word;
+    padding: 49px 10px 10px 50px;
+    font-family: arial, helvetica, sans-serif;
+    align-items: left
+}
